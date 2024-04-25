@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+    display: flex;
+    background-image: url(img/background\ img.jpeg) ;
+    background-size: 150Px ;
+}
+.border{
+    /* margin: 50Px  0Px  0px 200px  ; */
+    padding: 50px 50px  ;
+    border: 2px;
+    border-width: 20px;
+    border-color: rgb(222, 216, 216);
+    border-style: groove;
+    background-color: white;
+    width: 700px;
+    height:700px;
+    margin-left: 350Px;
+    margin-top: 100px;
+    border-width: 20px;
+    border-color: rgb(222, 216, 216);
+    border-style: groove;
+    border-bottom: 0px ;
+    
+}
+.div-1{
+    border-width: 20px;
+    border: 10px;
+    border-color: rgb(0, 0, 0);
+    padding : 20Px;
+    display: flex;
+    justify-content: space-between;
+    width:100 ;
+    margin: 10px;
+    background-color: rgb(234, 156, 156);
+    border: 1px;
+    border-width: 5px;
+    border-color: rgb(222, 216, 216);
+    border-style : solid;
+}
+.div-2{
+    padding : 20Px;
+    display: flex;
+    justify-content: space-between;
+    width:100 ;
+    margin: 10px;
+    border: 5px;
+    background-color: rgb(234, 156, 156);
+    border: 1px;
+    border-width: 5px;
+    border-color: rgb(222, 216, 216);
+    border-style : solid;
+
+
+}
+.div-3{
+    padding : 20Px;
+    width:100 ;
+    margin: 10px;
+    border: 5px;
+    background-color: rgb(234, 156, 156);
+    border: 1px;
+    border-width: 5px;
+    border-color: rgb(222, 216, 216);
+    border-style : solid ;
+}
+.div-4{
+    display: flex;
+    justify-content: center;
+    width:100 ;
+    margin: 10px;
+    border: 5px;
+    background-color: rgb(234, 156, 156);
+    border: 1px;
+    border-width: 5px;
+    border-color: rgb(222, 216, 216);
+    border-style : solid;
+    padding-top: 30px;
+    
+}
+.ing{
+    inline-size: 15px;
+}
+.link{
+    color: red;
+}

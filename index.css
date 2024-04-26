@@ -2,7 +2,7 @@ body{
     margin: 0;
     display: flex;
     background-image: url(img/background\ img.jpeg) ;
-    background-size: 150Px ;
+    background-size: 200Px ;
 }
 .border{
     padding: 50px 50px  ;
@@ -18,7 +18,7 @@ body{
     border-width: 20px;
     border-color: rgb(222, 216, 216);
     border-style: groove;
-    border-bottom: 0px ;
+    
     
 }
 .div-1{
